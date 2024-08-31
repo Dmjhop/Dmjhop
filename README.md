@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm David Hopkins II 🕶️</h1>
+<h1 align="center">Hey D2👓 Here!</h1>
 <h3 align="center">React Web Dev | Church Tech ✝️ 1st! John 14:6</h3>
 
 - 🌱 I’m currently learning **Prismic + GSAP**
