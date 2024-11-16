@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Prismic + GSAP**
 
-- 👨‍💻 All of my projects are available at [d2studios.tech](d2studios.tech)
+- 👨‍💻 All of my projects are available at <a href="https://www.d2studios.tech" target="_blank">d2studios.tech</a>
 
 - 📝 I regularly write articles on [d2studios.tech/blog](d2studios.tech/blog)
 
