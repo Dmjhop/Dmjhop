@@ -1,12 +1,12 @@
-<h1 align="center">Hey D2👓 Here!</h1>
 <img src="https://ik.imagekit.io/kingswaychurch/banner%20for%20github.png?updatedAt=1731740766159" style="max-width: 100%;">
-
+<h1 align="center">Hey D2👓 Here!</h1>
+I love **solving problems**, **optimizing systems**, and continuously **learning new skills** to get the job done! :)
 - 🌱 I’m currently learning **Prismic + GSAP**
 - 👨‍💻 All of my projects are available at <a href="https://www.d2studios.tech" target="_blank">d2studios.tech</a>
 - 📫 How to reach me **dhscience2@gmail.com**
 - 📄 Know about my experiences <a href="https://www.d2studios.tech/about" target="_blank">d2studios.tech/about</a>
 
-I love **solving problems**, **optimizing systems**, and continuously **learning new skills** to get the job done! :)
+
 
 ### Current Projects
 <markdown-accessiblity-table data-catalyst=""><table>
