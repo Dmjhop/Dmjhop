@@ -14,7 +14,7 @@ I love **solving problems**, **optimizing systems**, and continuously **learning
 <td><a href="https://d2studios.tech" rel="nofollow">My Portfolio Website</a><a href="https://github.com/Dmjhop/D2-Studios-Portfolio" rel="nofollow">(Github Repo)</a><br></td></tr>
 <tr><td><a href="https://kingsway-backstage-dashboard.vercel.app/backstage/pagepage" rel="nofollow"><img width="140px" src="https://ik.imagekit.io/kingswaychurch/Kingswaysyhdkfhsd.png?updatedAt=1731737996431"  style="max-width: 100%;"></a></td>
 <td><a href="https://kingsway-backstage-dashboard.vercel.app/backstage/pagepage" rel="nofollow">Kingsway Church Backstage Dashboard</a><a href="https://github.com/Dmjhop/Kingsway-Backstage-Dashboard" rel="nofollow">(Github Repo)</a><br></td></tr>
-<tr><td><p>More To Come!</p><br></td></tr>
+<tr><p>More To Come!</p><br></tr>
 
 </tbody></table></markdown-accessiblity-table>
 
