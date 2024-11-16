@@ -1,14 +1,12 @@
 <h1 align="center">Hey D2👓 Here!</h1>
-<h3 align="center">React Web Dev | Church Tech ✝️ 1st! John 14:6</h3>
+<h3 align="center">React Web Dev | Church Tech | Social Media</h3>
 
 - 🌱 I’m currently learning **Prismic + GSAP**
-
 - 👨‍💻 All of my projects are available at <a href="https://www.d2studios.tech" target="_blank">d2studios.tech</a>
-
 - 📫 How to reach me **dhscience2@gmail.com**
-
 - 📄 Know about my experiences <a href="https://www.d2studios.tech/about" target="_blank">d2studios.tech/about</a>
 
+I love solving problems, optimizing systems, and continuously learning new skills to get the job done.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
