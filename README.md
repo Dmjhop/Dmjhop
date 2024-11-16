@@ -5,11 +5,10 @@
 
 - 👨‍💻 All of my projects are available at <a href="https://www.d2studios.tech" target="_blank">d2studios.tech</a>
 
-- 📝 I regularly write articles on [d2studios.tech/blog](d2studios.tech/blog)
+- 📫 How to reach me **dhscience2@gmail.com**
 
-- 📫 How to reach me **david@d2studios.tech**
+- 📄 Know about my experiences <a href="https://www.d2studios.tech/about" target="_blank">d2studios.tech/about</a>
 
-- 📄 Know about my experiences [d2studios.tech/about](d2studios.tech/about)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
