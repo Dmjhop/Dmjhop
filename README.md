@@ -1,5 +1,5 @@
 <h1 align="center">Hey D2👓 Here!</h1>
-<h3 align="center">React Web Dev | Church Tech | Social Media</h3>
+<img src="https://ik.imagekit.io/kingswaychurch/banner%20for%20github.png?updatedAt=1731740766159" style="max-width: 100%;">
 
 - 🌱 I’m currently learning **Prismic + GSAP**
 - 👨‍💻 All of my projects are available at <a href="https://www.d2studios.tech" target="_blank">d2studios.tech</a>
