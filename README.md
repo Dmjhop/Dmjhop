@@ -5,7 +5,7 @@
 - 👨‍💻 All of my projects are available at <a href="https://www.d2studios.tech" target="_blank">d2studios.tech</a>
 - 📫 How to reach me **dhscience2@gmail.com**
 - 📄 Know about my experiences <a href="https://www.d2studios.tech/about" target="_blank">d2studios.tech/about</a>
-- 📫 Check out my church | <a href="https://kingsway.church" target="_blank">Kingsway Church</a>
+- ⛪ Check out my church | <a href="https://kingsway.church" target="_blank">Kingsway Church</a>
 
 
 ### Current Projects
