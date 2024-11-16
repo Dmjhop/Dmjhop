@@ -6,7 +6,7 @@
 - 📫 How to reach me **dhscience2@gmail.com**
 - 📄 Know about my experiences <a href="https://www.d2studios.tech/about" target="_blank">d2studios.tech/about</a>
 
-I love solving problems, optimizing systems, and continuously learning new skills to get the job done.
+I love **solving problems**, **optimizing systems**, and continuously **learning new skills** to get the job done! :)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
