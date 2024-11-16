@@ -10,9 +10,9 @@ I love **solving problems**, **optimizing systems**, and continuously **learning
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/dmjhop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dmjhop" height="30" width="40" /></a>
-<a href="https://twitter.com/da_xanup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="da_xanup" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/davidhopkinsii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="davidhopkinsii" height="30" width="40" /></a>
+<a href="https://x.com/da_xanup" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="da_xanup" height="30" width="40" /></a>
+<a href="https://dev.to/dmjhop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dmjhop" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
