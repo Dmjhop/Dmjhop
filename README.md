@@ -12,8 +12,8 @@
 <markdown-accessiblity-table data-catalyst=""><table>
 <tbody><tr><td><a href="https://d2studios.tech" rel="nofollow"><img width="140px" src="https://ik.imagekit.io/kingswaychurch/Screenshot%202024-11-16%20004748.png?updatedAt=1731736081012" style="max-width: 100%;"></a></td>
 <td><a href="https://d2studios.tech" rel="nofollow">My Portfolio Website</a> | <a href="https://github.com/Dmjhop/D2-Studios-Portfolio" rel="nofollow">(Github Repo)</a><br></td></tr>
-<tr><td><a href="https://kingsway-backstage-dashboard.vercel.app/backstage/pagepage" rel="nofollow"><img width="140px" src="https://ik.imagekit.io/kingswaychurch/Kingswaysyhdkfhsd.png?updatedAt=1731737996431"  style="max-width: 100%;"></a></td>
-<td><a href="https://kingsway-backstage-dashboard.vercel.app/backstage/pagepage" rel="nofollow">Kingsway Church Backstage Dashboard</a> | <a href="https://github.com/Dmjhop/Kingsway-Backstage-Dashboard" rel="nofollow">(Github Repo)</a><br></td></tr>
+<tr><td><a href="https://kingsway-backstage-dashboard.vercel.app/backstage/sunday-default" rel="nofollow"><img width="140px" src="https://ik.imagekit.io/kingswaychurch/Kingswaysyhdkfhsd.png?updatedAt=1731737996431"  style="max-width: 100%;"></a></td>
+<td><a href="https://kingsway-backstage-dashboard.vercel.app/backstage/sunday-default" rel="nofollow">Kingsway Church Backstage Dashboard</a> | <a href="https://github.com/Dmjhop/Kingsway-Backstage-Dashboard" rel="nofollow">(Github Repo)</a><br></td></tr>
 </tbody></table></markdown-accessiblity-table>
 
 <h3 align="left">Connect with me:</h3>
